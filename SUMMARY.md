@@ -2,4 +2,5 @@
 
 * [knowledgebase](README.md)
 * [计算机科学部分顶会](cs-top-conferences.md)
+* [答辩用到的英语单词](words-for-defence.md)
 
