@@ -8,7 +8,8 @@ description: For 20200625
 * Hyperglycaemia
 * Hypoglycaemia
 * improper
-* uconsciousness  \[ʌnˈkɒnʃəsnəs\]
+* syringe \[sɪˈrɪndʒ\]
+* unconsciousness  \[ʌnˈkɒnʃəsnəs\]
 * Asia  \[ˈeɪʒə; ˈeɪʃə\]
 * Africa \[ˈæfrɪkə\] 
 * Hypothesis \[haɪˈpɒθəsɪs\]
