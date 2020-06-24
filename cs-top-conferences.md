@@ -1,5 +1,7 @@
 # 计算机科学部分顶会
 
+\*\*\*\*[**顶会review paper内容查看**](https://openreview.net/)\*\*\*\*
+
 **AAAI** 美国人工智能年会（AAAI Conference on Artificial Intelligence），简称 AAAI，是人工智能领域的顶级国际会议。该会议固定在每年的 2 月份举行，由 AAAI 协会主办。
 
 **ICLR** 国际学习表征会议（International Conference on Learning Representations），简称 ICLR，2013 年成立了第一届，由位列深度学习三大巨头之二的 Yoshua Bengio 和 Yann LeCun 牵头创办。
