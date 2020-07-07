@@ -6,6 +6,7 @@
 * [网课资源汇总](wang-ke-zi-yuan-hui-zong.md)
 * [职位与技能](position-jd.md)
 * [知识系统化网站汇总](zhi-shi-xi-tong-hua-wang-zhan-hui-zong.md)
+* [应该养成的良好工作习惯](good-working-habbit.md)
 
 ## 强化学习
 
