@@ -34,7 +34,7 @@
 7. D:\Google Drive
 8. D:\Dropbox \(Personal\)
 
-#### C盘的部分临时文件
+#### C盘的部分临时文件（用户名换成你自己的）
 
 1. C:\Users\qingn   \(check the sub-folders and files\)
 2. C:\Users\qingn\Pictures
