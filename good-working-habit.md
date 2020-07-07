@@ -49,7 +49,7 @@
 
 #### 退出登录或清空浏览器信息
 
-1. 退出各类办公软件如office、skype、wechat、zoom等
+1. 退出各类办公软件如office、skype、wechat、zoom等，必要时进行备份和清理
 2. 退出Chrome并清空cache、历史记录、收藏夹、自动填充、密码等
 3. 退出Edge并清空cache、历史记录、收藏夹、自动填充、密码等
 4. 退出IE并清空cache、历史记录、收藏夹、自动填充、密码等
