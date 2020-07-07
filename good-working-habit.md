@@ -42,18 +42,21 @@
 4. C:\Users\qingn\Documents\temp 
 5. C:\Users\qingn\Documents\ViberDownloads
 6. C:\Users\qingn\Downloads\Microsoft.SkypeApp\_kzf8qxf38zg5c!App\All 
-7. C:\Users\qingn\AppData\Local\Microsoft\Office\UnsavedFiles
-8. C:\Users\qingn\AppData\Local\Microsoft\Outlook\RoamCache
+7. C:\Users\qingn\AppData\Local\Temp
+8. C:\Users\qingn\AppData\Local\Microsoft\Office\UnsavedFiles
+9. C:\Users\qingn\AppData\Local\Microsoft\Outlook\RoamCache
+10. C:\Users\qingn\AppData\Roaming
 
 #### 退出登录或清空浏览器信息
 
-1. 退出Chrome并清空cache、历史记录、收藏夹、自动填充、密码等
-2. 退出Edge并清空cache、历史记录、收藏夹、自动填充、密码等
-3. 退出IE并清空cache、历史记录、收藏夹、自动填充、密码等
-4. Gmails \(Chrome、Edge\)
-5. Onedrive 
-6. Googledrive 
-7. Potato Todo 并卸载
-8. Outlook导出为Outlook文件并拷贝存档
-9. 退出Outlook、系统自带的Mail程序
+1. 退出各类办公软件如office、skype、wechat、zoom等
+2. 退出Chrome并清空cache、历史记录、收藏夹、自动填充、密码等
+3. 退出Edge并清空cache、历史记录、收藏夹、自动填充、密码等
+4. 退出IE并清空cache、历史记录、收藏夹、自动填充、密码等
+5. Gmails \(Chrome、Edge\)
+6. Onedrive 
+7. Googledrive 
+8. Potato Todo 并卸载
+9. Outlook导出为Outlook文件并拷贝存档
+10. 退出Outlook、系统自带的Mail程序
 
