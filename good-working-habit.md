@@ -21,7 +21,7 @@
 
 ### 更换工作电脑时的原电脑清理工作
 
-文件夹的设立基本按照上述原则，所以除了部分软件外，大部分在数据盘自己建立的各类文件夹中：
+文件夹的设立基本按照上述原则，所以除了部分软件外，大部分在数据盘自己建立的各类文件夹中。以下位置仅供参考，请根据实际情况对标自己的文件夹，同时部分位置可以举一反三扩展至相似文件夹：
 
 #### D盘中的文件
 
@@ -42,10 +42,11 @@
 4. C:\Users\qingn\Documents\temp 
 5. C:\Users\qingn\Documents\ViberDownloads
 6. C:\Users\qingn\Downloads\Microsoft.SkypeApp\_kzf8qxf38zg5c!App\All 
-7. C:\Users\qingn\AppData\Local\Temp
-8. C:\Users\qingn\AppData\Local\Microsoft\Office\UnsavedFiles
-9. C:\Users\qingn\AppData\Local\Microsoft\Outlook\RoamCache
-10. C:\Users\qingn\AppData\Roaming
+7. （以下为隐藏文件夹，需先激活可以显示隐藏文件）
+8. C:\Users\qingn\AppData\Local\Temp
+9. C:\Users\qingn\AppData\Local\Microsoft\Office\UnsavedFiles
+10. C:\Users\qingn\AppData\Local\Microsoft\Outlook\RoamCache
+11. C:\Users\qingn\AppData\Roaming
 
 #### 退出登录或清空浏览器信息
 
