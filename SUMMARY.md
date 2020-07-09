@@ -7,7 +7,7 @@
 * [知识系统化网站汇总](zhi-shi-xi-tong-hua-wang-zhan-hui-zong.md)
 * [应该养成的良好工作习惯](good-working-habit.md)
 * [推荐的手机APP](recommended-apps.md)
-* [规范化流程汇总](standardized-processes.md)
+* [规范化流程汇总（SQN Standards）](standardized-processes.md)
 
 ## 强化学习
 
