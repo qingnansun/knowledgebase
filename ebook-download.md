@@ -4,6 +4,8 @@
 
 * [docplayer](http://docplayer.net/%20%20)
 * [onlinelibrary.wiley](http://onlinelibrary.wiley.com/)
+* [iospress.nl](http://ebooks.iospress.nl/)
+* [ebookee](https://ebookee.com/)
 
 
 
