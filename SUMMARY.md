@@ -9,6 +9,7 @@
 * [应该养成的良好工作习惯](good-working-habit.md)
 * [推荐的手机APP](recommended-apps.md)
 * [规范化流程汇总（SQN Standards）](standardized-processes.md)
+* [奥斯卡历届获奖影片汇总](oscar-movies.md)
 * [其他零散资料汇总](other-resources.md)
 
 ## 强化学习
