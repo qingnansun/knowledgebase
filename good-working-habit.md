@@ -55,9 +55,10 @@
 3. 退出Edge并清空cache、历史记录、收藏夹、自动填充、密码等
 4. 退出IE并清空cache、历史记录、收藏夹、自动填充、密码等
 5. Gmails \(Chrome、Edge\)
-6. Onedrive 
-7. Googledrive 
-8. Potato Todo 并卸载
-9. Outlook导出为Outlook文件并拷贝存档
-10. 退出Outlook、系统自带的Mail程序
+6. 退出工作和学生邮件
+7. Onedrive 
+8. Googledrive 
+9. Potato Todo 并卸载
+10. Outlook导出为Outlook文件并拷贝存档
+11. 退出Outlook、系统自带的Mail程序
 
