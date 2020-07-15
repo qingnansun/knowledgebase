@@ -7,6 +7,7 @@
 * [电子书下载资源汇总](ebook-download.md)
 * [知识系统化网站汇总](zhi-shi-xi-tong-hua-wang-zhan-hui-zong.md)
 * [推荐的手机APP](recommended-apps.md)
+* [提升生活和工作幸福度的物品](for-a-better-life.md)
 * [职位与技能](position-jd.md)
 * [计算机科学部分顶会](cs-top-conferences.md)
 * [奥斯卡历届获奖影片汇总](oscar-movies.md)
