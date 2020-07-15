@@ -6,7 +6,7 @@
 
 #### 需要一定时间完成的任务或事项
 
-1. 在Focus To-Do （或叫疯狂番茄/小番茄）中提前列好相应的Project和任务，配合番茄钟工作法激活相应任务后集中完成；
+1. 在[Focus To-Do](https://www.focustodo.cn/#products) （或叫疯狂番茄/小番茄）中提前列好相应的Project和任务，配合番茄钟工作法激活相应任务后集中完成；
 2. 激活Focus To-Do的任务时，一并激活TimeTrack app中的对应事件。
 3. Focus To-Do我安装了PC版和安卓版，一般习惯在PC端直接操作（实现不同终端的同步需要购买license，不过不贵，一次性买断）
 4. TimeTrack我用的安卓版，目的在于时间的记录和分析统计，这方面比Focus To-Do要好和方便些。
