@@ -7,7 +7,7 @@
 #### 需要一定时间完成的任务或事项
 
 1. 在[Focus To-Do](https://www.focustodo.cn/#products) （或叫疯狂番茄/小番茄）中提前列好相应的Project和任务，配合番茄钟工作法激活相应任务后集中完成；
-2. 激活Focus To-Do的任务时，一并激活TimeTrack app中的对应事件。
+2. 激活Focus To-Do的任务时，一并激活[TimeTrack ](http://timetrack.io/)app中的对应事件。
 3. Focus To-Do我安装了PC版和安卓版，一般习惯在PC端直接操作（实现不同终端的同步需要购买license，不过不贵，一次性买断）
 4. TimeTrack我用的安卓版，目的在于时间的记录和分析统计，这方面比Focus To-Do要好和方便些。
 
@@ -15,8 +15,8 @@
 
 1. 主要基于google提供的task，但是不知道这个功能国内是否可用。
 2. PC端可以直接访问谷歌浏览器，或者用chrome的插件check list for google task。
-3. PC端也可以用store中下载的one task应用
-4. 手机端可以用Gtasks这个app，如果是安卓手机，可以添加桌面任务列表，直接进行任务的添加和完成操作，非常方便。
+3. PC端也可以用store中下载的[one task](https://www.microsoft.com/en-us/p/one-task/9nblggh2jhrg?activetab=pivot:overviewtab)应用
+4. 手机端（安卓）可以用[Gtasks](https://play.google.com/store/apps/details?id=org.dayup.gtask)这个app，如果是安卓手机，可以添加桌面任务列表，直接进行任务的添加和完成操作，非常方便。
 5. 以上所述的软件或app都需要绑定谷歌账号，这样就实现了多终端的google task同步。
 6. 对于可以集中时间一起完成的多个task，可以创建Focus Todo任务和TimeTrack记录，专门用以消灭未完成的待办事项。
 
