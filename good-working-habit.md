@@ -78,3 +78,5 @@
 6. 遵循代码的编写规范并定期回顾总结代码
 7. 提供“干净”的代码以及对应的requirements.txt文件
 
+![](.gitbook/assets/20200803-wei-tu-.png)
+
